@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Linkedin https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
-- 😄 Pronouns: Ela / Dela
+- 😄 Pronouns: Ela / Dela / She / Her
 
 
 <!---
