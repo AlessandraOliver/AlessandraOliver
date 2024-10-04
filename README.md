@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AlessandraOliver
+- 👋 Hi, I’m @Alessandra Oliveira 
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning:  html | css | JavaScript | Python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E-mail: acr.olliver@hotmail.com | Linkedin www.linkedin.com/in/acr-olliver
 - 😄 Pronouns: Ela / Dela / She / Her
 
