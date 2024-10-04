@@ -1,6 +1,6 @@
 👋 Olá, sou Alessandra Oliveira
 
-👀 Estou interessada em aprender | Estágio | Trabalho
+👀 Interesses: Aprender | Estágio | Trabalho
 
 🌱 Atualmente estou aprendendo: html | css | JavaScript | Python
 
