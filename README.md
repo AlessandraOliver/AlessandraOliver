@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Alessandra Oliveira 
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning:  html | css | JavaScript | Python 
-- 📫 How to reach me E-mail: acr.olliver@hotmail.com | Linkedin www.linkedin.com/in/acr-olliver
-- 😄 Pronouns: Ela / Dela / She / Her
+👋 Olá, sou Alessandra Oliveira
+👀 Estou interessada em aprender | Estágio | Trabalho
+🌱 Atualmente estou aprendendo: html | css | JavaScript | Python
+📫 Como entrar em contato comigo E-mail: acr.olliver@hotmail.com | Linkedin www.linkedin.com/in/acr-olliver
+😄 Pronomes: Ela / Dela / Ela / Ela
 
 
 <!---
